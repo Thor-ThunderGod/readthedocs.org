@@ -41,7 +41,7 @@ django-impersonate
 # The latest version of requests isn't compatible with the
 # version of the docker-py library we're using.
 # See https://github.com/docker/docker-py/issues/3256.
-requests==2.30.0
+requests==2.32.2
 requests-toolbelt
 slumber
 pyyaml
